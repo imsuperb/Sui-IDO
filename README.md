@@ -60,22 +60,6 @@ To check the **whitelisted_addresses** of the IDO, you can call the following fu
 
 Clone the project
 
-```bash
-git clonegit@github.com:karangorania/Block-Chain-Full-stack.git
-```
-
-Go to the project directory
-
-```bash
-cd Block-Chain-Full-stack
-```
-
-Checkout to feature branch
-
-```bash
-git checkout feature
-```
-
 Install dependencies
 
 ```bash
